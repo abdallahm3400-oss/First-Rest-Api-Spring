@@ -157,7 +157,8 @@ firstrestapispring/
 │   ├── domain/
 │   │   └── Product
 │   ├── repository/
-│   │   └── ProductRepository
+│   │   ├──  OldProductRepository
+│   │   └──  ProductRepository
 │   ├── service/
 │   │   └── ProductService
 │   └── support/
